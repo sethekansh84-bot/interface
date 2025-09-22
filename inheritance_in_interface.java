@@ -47,7 +47,6 @@ abstract class MobileData extends Marksheet_2 {
 
 
 
-
 // Main class to run the program // kr skte hai AND BSS YAHI OBJECT BNANE WALA
 // KAAM
 public class inheritance_in_interface {
@@ -59,10 +58,4 @@ public class inheritance_in_interface {
 
     }
 }
-
-
-
-
-
-
 
